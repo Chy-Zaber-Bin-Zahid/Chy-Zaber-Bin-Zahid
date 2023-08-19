@@ -1,7 +1,7 @@
 <p align="center">
 <img src="/img/ZaberCover.jpg" alt="Zaber_cover">
 </p>
-<h1 align="center">Howdy 👋, I'm Al Nahian! </h1>
+<h1 align="center">Howdy 👋, I'm Chy Zaber Bin Zahid! </h1>
 <p align="center">
 🔥 I'm a passionate FullStack Developer based in <span><img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="16"></span> Bangladesh and learning new things everyday.
 </p>
@@ -80,4 +80,3 @@
 <img src="https://readme-jokes.vercel.app/api?theme=blueberry" alt="Jokes Card" />
 </a>
 </div>
-# Chy-Zaber-Bin-Zahid
