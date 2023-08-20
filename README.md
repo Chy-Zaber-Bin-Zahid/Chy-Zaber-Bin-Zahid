@@ -65,3 +65,5 @@
 <img src="https://readme-jokes.vercel.app/api?theme=blueberry" alt="Jokes Card" />
 </a>
 </div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chy-Zaber-Bin-Zahid)](https://git.io/streak-stats)
