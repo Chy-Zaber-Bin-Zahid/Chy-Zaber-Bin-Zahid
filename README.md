@@ -39,7 +39,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chy-Zaber-Bin-Zahid" alt="Zaber&#39;s GitHub stats" width="600"></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Chy-Zaber-Bin-Zahid" alt="Zaber&#39;s GitHub stats" width="600"></p>
-<p align="center"><img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chy-Zaber-Bin-Zahid&layout=compact)" alt="Zaber&#39;s GitHub stats" width="600"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chy-Zaber-Bin-Zahid" alt="Zaber&#39;s GitHub stats" width="600"></p>
 </p>
 
 <p align="center">
