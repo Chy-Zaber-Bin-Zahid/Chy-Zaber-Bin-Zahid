@@ -37,8 +37,10 @@
 </p>
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chy-Zaber-Bin-Zahid&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true" alt="Zaber&#39;s GitHub stats" width="600"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chy-Zaber-Bin-Zahid" alt="Zaber&#39;s GitHub stats" width="600"></p>
 </p>
+
+<div align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chy-Zaber-Bin-Zahid)](https://git.io/streak-stats)</div>
 
 <p align="center">
   <a href="https://www.facebook.com/chowdhuryzaber.binzahid" target="_blank">
@@ -58,6 +60,8 @@
   </a> -->
 </p>
 
+
+
 <div align="center">
 <hr>
 <h3>Wanna Hear a Joke, Buddy? 😜</h3>
@@ -66,4 +70,4 @@
 </a>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chy-Zaber-Bin-Zahid)](https://git.io/streak-stats)
+
