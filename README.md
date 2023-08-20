@@ -37,9 +37,9 @@
 </p>
 <br>
 
-<div style="display: flex;"; align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Chy-Zaber-Bin-Zahid&show_icons=true&theme=dark" alt="Zaber&#39;s GitHub stats">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Chy-Zaber-Bin-Zahid&show_icons=true&theme=dark" alt="Zaber&#39;s GitHub stats">
+<div style="display: flex; gap:1px; border: 1px solid red;"; align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chy-Zaber-Bin-Zahid&show_icons=true&theme=dark" alt="Zaber&#39;s GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chy-Zaber-Bin-Zahid&show_icons=true&theme=dark" alt="Zaber&#39;s GitHub stats">
 </div>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chy-Zaber-Bin-Zahid&layout=donut&show_icons=true&theme=dark" alt="Zaber&#39;s GitHub stats" width="600" height="300"></p>
 </p>
