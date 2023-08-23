@@ -62,7 +62,7 @@
 
 <div align="center">
 <hr>
-<h3>Wanna Hear a Joke, Buddy? 😜</h3>
+<h3>Wanna Hear a Joke, Buddy?</h3>
 <a href="https://github.com/ABSphreak/readme-jokes">
 <img src="https://readme-jokes.vercel.app/api?theme=blueberry" alt="Jokes Card" />
 </a>
