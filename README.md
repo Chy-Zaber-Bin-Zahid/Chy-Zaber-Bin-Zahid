@@ -38,11 +38,10 @@
 <br>
 
 <div style="display: flex;"; align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chy-Zaber-Bin-Zahid&show_icons=true&theme=dark" alt="Zaber&#39;s GitHub stats" width="45%" height="auto">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chy-Zaber-Bin-Zahid&show_icons=true&theme=dark" alt="Zaber&#39;s GitHub stats" width="50%%" height="auto">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chy-Zaber-Bin-Zahid&layout=donut&show_icons=true&theme=dark" alt="Zaber&#39;s GitHub stats" width="40%" height="auto">
 </div>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Chy-Zaber-Bin-Zahid&show_icons=true&theme=dark" alt="Zaber&#39;s GitHub stats" width="600" height="auto"></p>
-</p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chy-Zaber-Bin-Zahid&layout=donut&show_icons=true&theme=dark" alt="Zaber&#39;s GitHub stats" width="600" height="300"></p>
 </p>
 
 <p align="center">
