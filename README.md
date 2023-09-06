@@ -42,7 +42,10 @@
 
 <p align="center">
   <a href="https://www.facebook.com/chowdhuryzaber.binzahid" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/alnahian2003" height="28">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://www.facebook.com/chowdhuryzaber.binzahid" height="28">
+  </a>
+  <a href="https://www.facebook.com/chowdhuryzaber.binzahid" target="_blank">
+    <img src="https://img.shields.io/badge/logo-linkedin-yellow?logo=linkedin&logoColor=skyblue" height="28">
   </a>
   <a href="mailto:czaber@gmail.com?subject=Hello Dear Chy Zaber Bin Zahid! I send this message from your Github Profile. I need to talk to you!" target="_blank">
     <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a.alnahian2003@gmail.com" height="28">
