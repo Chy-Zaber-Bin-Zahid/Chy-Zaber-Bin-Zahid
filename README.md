@@ -5,13 +5,12 @@
 <p align="center">
 🔥 I'm a passionate FullStack Developer based in <span><img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="16"></span> Bangladesh and learning new things everyday.
 </p>
+
 - 🎓 Pursuing B. Sc in Computer Science and Engineering [(CSE)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse) at [BRAC University](https://www.bracu.ac.bd/)
 - 🧠 Currently learning Next Js
 - 🔭 Looking for help with ML
 - 📫 Mail me: [czaber47@gmail.com](mailto:czaber47@gmail.com)
-- ⚡ Fun fact: The first program I wrote wasn't "Hello, World!" 😌 
 - 📃 Checkout my [resume](https://github.com/Chy-Zaber-Bin-Zahid/Resume/blob/main/Chowdhury%20Zaber%20Bin%20Zahid%20CV.pdf)
-<!-- - 🌐 Web: [Mohammad Shakib](https://mo-shakib.github.io) -->
 
 <h3 align="center">⚡ Skills I Possess</h3>
 
