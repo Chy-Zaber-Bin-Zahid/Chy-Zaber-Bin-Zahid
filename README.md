@@ -9,7 +9,7 @@
 - 🎓 Pursuing B. Sc in Computer Science and Engineering [(CSE)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse) at [BRAC University](https://www.bracu.ac.bd/)
 - 🧠 Currently learning Next Js
 - 🔭 Looking for help with ML
-- 📫 Mail me: [czaber47@gmail.com](mailto:czaber47@gmail.com)
+- 📫 Mail me: [chowdhury.zaber.bin.zahid@gmail.com](mailto:chowdhury.zaber.bin.zahid@gmail.com)
 - 📃 Checkout my [resume](https://github.com/Chy-Zaber-Bin-Zahid/Resume/blob/main/Chowdhury%20Zaber%20Bin%20Zahid%20CV.pdf)
 
 <h3 align="center">⚡ Skills I Possess</h3>
