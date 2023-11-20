@@ -10,8 +10,9 @@
 - 🧠 Currently learning Next Js
 - 🔭 Looking for help with ML
 - 📫 Mail me: [chowdhury.zaber.bin.zahid@gmail.com](mailto:chowdhury.zaber.bin.zahid@gmail.com)
-- 📃 Checkout my [resume](https://github.com/Chy-Zaber-Bin-Zahid/Resume/blob/main/Chowdhury%20Zaber%20Bin%20Zahid%20CV.pdf)
-
+- 📃 Checkout my [resume front end](https://github.com/Chy-Zaber-Bin-Zahid/Resume/blob/main/Chowdhury%20Zaber%20Bin%20Zahid%20CV%20Front%20end.pdf)
+- 📃 Checkout my [resume full stack](https://github.com/Chy-Zaber-Bin-Zahid/Resume/blob/main/Chowdhury%20Zaber%20Bin%20Zahid%20CV%20Full%20stack.pdf)
+- 
 <h3 align="center">⚡ Skills I Possess</h3>
 
 <p align="center">
