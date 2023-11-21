@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
 <img src="/img/ZaberCover.jpg" alt="Zaber_cover">
-</p>
+</p>-->
 <h1 align="center">Assalamu Alaykum 👋, I'm Chowdhury Zaber Bin Zahid! </h1>
 <p align="center">
 🔥 I'm a passionate FullStack Developer based in <span><img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="16"></span> Bangladesh and learning new things everyday.
