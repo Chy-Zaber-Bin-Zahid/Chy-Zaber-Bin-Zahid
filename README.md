@@ -12,7 +12,7 @@
 - 📫 Mail me: [chowdhury.zaber.bin.zahid@gmail.com](mailto:chowdhury.zaber.bin.zahid@gmail.com)
 - 📃 Checkout my resume [front end](https://github.com/Chy-Zaber-Bin-Zahid/Resume/blob/main/Chowdhury%20Zaber%20Bin%20Zahid%20CV%20Front%20end.pdf) | [full stack](https://github.com/Chy-Zaber-Bin-Zahid/Resume/blob/main/Chowdhury%20Zaber%20Bin%20Zahid%20CV%20Full%20stack.pdf)
 
-<h3 align="center">⚡ Skills I Possesse</h3>
+<h3 align="center">⚡ Skills I Possess</h3>
 
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
