@@ -6,7 +6,7 @@
 🔥 I'm a passionate FullStack Developer based in <span><img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="16"></span> Bangladesh and learning new things everyday.
 </p>
 
-- 🎓 Completed B. Sc in Computer Science and Engineering [(CSE)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse) at [BRAC University](https://www.bracu.ac.bd/)
+- 🎓 Completed B. Sc in Computer Science [(CS)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science/cs) at [BRAC University](https://www.bracu.ac.bd/)
 - 🧠 Currently learning Nest Js
 - 🔭 Looking for help with ML
 - 📫 Mail me: [chowdhury.zaber.bin.zahid@gmail.com](mailto:chowdhury.zaber.bin.zahid@gmail.com)
