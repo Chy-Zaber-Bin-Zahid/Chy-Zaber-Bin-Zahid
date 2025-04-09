@@ -7,7 +7,7 @@
 </p>
 
 - 🎓 Completed B. Sc in Computer Science [(CS)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science/cs) at [BRAC University](https://www.bracu.ac.bd/)
-- 🧠 Currently working as a Junior SWE @ W3 Engineers Ltd
+- 🧠 Currently working as a Jr. SWE @ W3 Engineers Ltd
 - 📫 Mail me: [chowdhury.zaber.bin.zahid@gmail.com](mailto:chowdhury.zaber.bin.zahid@gmail.com)
 - 📃 Checkout my [resume](https://github.com/Chy-Zaber-Bin-Zahid/Resume/blob/main/Software_Engineer_Zaber%20CV.pdf)
 
