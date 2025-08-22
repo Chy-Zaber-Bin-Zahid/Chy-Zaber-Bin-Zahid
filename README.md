@@ -11,9 +11,9 @@
 
 ---
 
-<h3 align="center">⚡ Tech Stack</h3>
+<h3 align="start">⚡ Tech Stack</h3>
 
-<div align="center">
+<div align="start">
 
 #### Frontend
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
