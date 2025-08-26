@@ -1,7 +1,7 @@
 <h1 align="center">Assalamu Alaykum 👋, I'm Chowdhury Zaber Bin Zahid</h1>
 
 <p align="center">
-🔥 Passionate FullStack Developer from <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="18"/> Bangladesh, learning and building every day.
+🔥 Passionate Software Engineer from <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="18"/> Bangladesh, learning and building every day.
 </p>
 
 - 🎓 B.Sc. in Computer Science [(CS)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science/cs) @ [BRAC University](https://www.bracu.ac.bd/)  
@@ -35,7 +35,7 @@
 <a href="https://nestjs.com" target="_blank"><img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/></a>
 
 
-#### Databases
+#### Database
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
