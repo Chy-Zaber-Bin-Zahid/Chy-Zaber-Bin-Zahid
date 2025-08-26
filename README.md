@@ -68,7 +68,7 @@
   <a href="https://github.com/Chy-Zaber-Bin-Zahid" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Chy-Zaber-Bin-Zahid?label=GitHub&style=flat" height="28">
   </a>
-<!--   <a href="https://github.com/Chy-Zaber-Bin-Zahid" target="_blank">
+  <a href="https://github.com/Chy-Zaber-Bin-Zahid" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=Chy-Zaber-Bin-Zahid&label=Views&color=brightgreen&style=flat" alt="Chy Zaber" height="28" />
-  </a> -->
+  </a>
 </p>
