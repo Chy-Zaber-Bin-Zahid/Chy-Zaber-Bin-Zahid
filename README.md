@@ -5,7 +5,7 @@
 </p>
 
 - 🎓 B.Sc. in Computer Science [(CS)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science/cs) @ [BRAC University](https://www.bracu.ac.bd/)  
-- 🧠 Former SWE Intern @ [Monstarlab](https://monstar-lab.com/bd/)  
+- 🧠 Associate Software Engineer @ [FIGLAB](https://figlab.io/)  
 - 📫 [chowdhury.zaber.bin.zahid@gmail.com](mailto:chowdhury.zaber.bin.zahid@gmail.com)  
 - 📃 [Resume](https://github.com/Chy-Zaber-Bin-Zahid/Resume/blob/main/Software_Engineer_Zaber%20CV.pdf)  
 
