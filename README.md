@@ -55,7 +55,7 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chy-Zaber-Bin-Zahid&show_icons=true&theme=dark" alt="Zaber's GitHub stats" width="600"></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chy-Zaber-Bin-Zahid&show_icons=true&theme=dark" alt="Zaber's GitHub stats" width="600"></p> -->
 
 <p align="center">
   <a href="https://www.facebook.com/chowdhuryzaber.binzahid" target="_blank">
