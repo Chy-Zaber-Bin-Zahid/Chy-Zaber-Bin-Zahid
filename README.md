@@ -7,6 +7,8 @@
 - 🎓 B.Sc. in Computer Science [(CS)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science/cs) @ [BRAC University](https://www.bracu.ac.bd/)  
 - 🧠 Associate Software Engineer @ [FIGLAB](https://figlab.io/)  
 - 📫 [chowdhury.zaber.bin.zahid@gmail.com](mailto:chowdhury.zaber.bin.zahid@gmail.com)
+- [Support kori](https://www.supportkori.com/chowdhuryzaberbinzahid)
+- [Buy me a coffee](https://buymeacoffee.com/chyzaber)
 
 ---
 
