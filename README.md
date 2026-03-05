@@ -8,7 +8,6 @@
 - 🧠 Associate Software Engineer @ [FIGLAB](https://figlab.io/)  
 - 📫 [chowdhury.zaber.bin.zahid@gmail.com](mailto:chowdhury.zaber.bin.zahid@gmail.com)
 - [Support kori](https://www.supportkori.com/chowdhuryzaberbinzahid)
-- [Buy me a coffee](https://buymeacoffee.com/chyzaber)
 
 ---
 
