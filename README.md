@@ -8,6 +8,7 @@
 - 🎓 B.Sc. in Computer Science [(CS)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science/cs) @ [BRAC University](https://www.bracu.ac.bd/)
 - ⚙️ 1+ years of professional experience across **Next.js / MERN**, with a focus on **LLM integration, RAG, and AI agents**
 - 🌱 Currently going deeper into agentic workflows, vector search, and edge infrastructure
+- 🐘 Open source: contributor to the **Laravel framework** — merged fix in Laravel 13 ([#61305](https://github.com/laravel/framework/pull/61305))
 - 📫 [chowdhury.zaber.bin.zahid@gmail.com](mailto:chowdhury.zaber.bin.zahid@gmail.com)
 
 ---
@@ -137,6 +138,13 @@ Cross-platform desktop app with offline-first SQLite, Supabase sync, Cloudflare 
 
 **Campus Tutor — Peer-to-Peer EdTech Platform** · [Live Site](#)
 Architected a RAG chatbot on Cloudflare Vectorize for context-aware semantic search, and built the tutoring platform on Next.js + Cloudflare with role-based access control and student identity verification.
+
+---
+
+<h3 align="left">🌍 Open Source Contributions</h3>
+
+**Laravel Framework** · [PR #61305](https://github.com/laravel/framework/pull/61305) · merged into `13.x` · Aug 2026
+Fixed a crash in Laravel 13's new `Illuminate\Image` component: images created from a stream failed on the second read because the lazy loader re-read a stream that was already at its end. The loader now resolves once and shares its result across clones of the image, with regression tests covering the stream, clone, and URL cases. Merged by Taylor Otwell.
 
 ---
 
