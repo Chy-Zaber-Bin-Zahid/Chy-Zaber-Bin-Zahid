@@ -246,12 +246,6 @@ Fixed a crash in Laravel 13's new `Illuminate\Image` component: images created f
 | [Tech Companies in Bangladesh](https://github.com/MBSTUPC/tech-companies-in-bangladesh) | [#127](https://github.com/MBSTUPC/tech-companies-in-bangladesh/pull/127) | Added 6sense Technologies to the directory | Jan 2025 |
 | [Chicken Coop](https://github.com/0xriyadh/chicken-coop) | [#20](https://github.com/0xriyadh/chicken-coop/pull/20) | Added a room-type filter to the available classes view | Dec 2024 |
 
-**In review**
-
-- [arifszn/reminder-mcp #1](https://github.com/arifszn/reminder-mcp/pull/1) — Discord webhook notifications alongside Slack and Telegram
-- [arifszn/OneClick #182](https://github.com/arifszn/OneClick/pull/182) — real-time search filtering with a clear button
-- [mreflow/the-librarian-game #3](https://github.com/mreflow/the-librarian-game/pull/3) — floating XP indicators and rendering performance improvements
-
 ---
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chy-Zaber-Bin-Zahid&show_icons=true&theme=dark" alt="Zaber's GitHub stats" width="600"></p> -->
