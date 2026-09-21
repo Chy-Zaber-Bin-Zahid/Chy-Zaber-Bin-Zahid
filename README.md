@@ -9,6 +9,7 @@
 - ⚙️ 1.5+ years of professional experience across **Next.js, Laravel, and MERN**, with a focus on **LLM integration, RAG, and AI agents**
 - 🤖 AI-assisted development with **Claude Code, Codex, Cursor, and Conductor**
 - 🌍 Open source: merged fixes in the **NestJS**, **Laravel**, and **Astro** frameworks, plus contributions to GitProfile and more ([see below](#-open-source-contributions))
+- 🌐 Portfolio: [zaber47.vercel.app](https://zaber47.vercel.app)
 - 📫 [chowdhury.zaber.bin.zahid@gmail.com](mailto:chowdhury.zaber.bin.zahid@gmail.com)
 
 ---
@@ -254,6 +255,9 @@ Fixed a crash in Laravel 13's new `Illuminate\Image` component: images created f
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chy-Zaber-Bin-Zahid&show_icons=true&theme=dark" alt="Zaber's GitHub stats" width="600"></p> -->
 
 <p align="center">
+  <a href="https://zaber47.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" height="28">
+  </a>
   <a href="https://www.linkedin.com/in/chowdhury-zaber-bin-zahid/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTExNiAzSDEyYTguOTEgOC45MSAwIDAwLTkgOC44djEwNC40MmE4LjkxIDguOTEgMCAwMDkgOC43OGgxMDRhOC45MyA4LjkzIDAgMDA5LTguODFWMTEuNzdBOC45MyA4LjkzIDAgMDAxMTYgM3pNMzkuMTcgMTA3SDIxLjA2VjQ4LjczaDE4LjExem0tOS02Ni4yMWExMC41IDEwLjUgMCAxMTEwLjQ5LTEwLjUgMTAuNSAxMC41IDAgMDEtMTAuNTQgMTAuNDh6TTEwNyAxMDdIODguODlWNzguNjVjMC02Ljc1LS4xMi0xNS40NC05LjQxLTE1LjQ0cy0xMC44NyA3LjM2LTEwLjg3IDE1VjEwN0g1MC41M1Y0OC43M2gxNy4zNnY4aC4yNGMyLjQyLTQuNTggOC4zMi05LjQxIDE3LjEzLTkuNDFDMTAzLjYgNDcuMjggMTA3IDU5LjM1IDEwNyA3NXoiLz48L3N2Zz4%3D" height="28">
   </a>
