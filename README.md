@@ -8,7 +8,7 @@
 - 🎓 B.Sc. in Computer Science [(CS)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science/cs) @ [BRAC University](https://www.bracu.ac.bd/)
 - ⚙️ 1.5+ years of professional experience across **Next.js, Laravel, and MERN**, with a focus on **LLM integration, RAG, and AI agents**
 - 🤖 AI-assisted development with **Claude Code, Codex, Cursor, and Conductor**
-- 🌍 Open source: merged fixes in the **Laravel** and **Astro** frameworks, plus contributions to GitProfile and more ([see below](#-open-source-contributions))
+- 🌍 Open source: merged fixes in the **NestJS**, **Laravel**, and **Astro** frameworks, plus contributions to GitProfile and more ([see below](#-open-source-contributions))
 - 📫 [chowdhury.zaber.bin.zahid@gmail.com](mailto:chowdhury.zaber.bin.zahid@gmail.com)
 
 ---
@@ -232,6 +232,9 @@ Architected a RAG chatbot on Cloudflare Vectorize for context-aware semantic sea
 ### 🌍 Open Source Contributions
 
 Pull requests merged into projects I don't own.
+
+**NestJS** · [nestjs/nest](https://github.com/nestjs/nest) <img src="https://img.shields.io/github/stars/nestjs/nest?style=flat&label=%E2%98%85" alt="NestJS stars" height="18"/> · [PR #17780](https://github.com/nestjs/nest/pull/17780) · merged into `master` · Sep 2026
+Fixed `ParseDatePipe` throwing "Nest can't resolve dependencies" at bootstrap when passed by class, the form the docs use for every built-in pipe. It was the only pipe whose `options` argument lacked `@Optional()`, so the injector failed before the `= {}` default could apply. Added the decorator, widened `options` to `protected` to match its sibling pipes, and added regression tests. Merged by Kamil Myśliwiec.
 
 **Astro** · [withastro/astro](https://github.com/withastro/astro) <img src="https://img.shields.io/github/stars/withastro/astro?style=flat&label=%E2%98%85" alt="Astro stars" height="18"/> · [PR #17960](https://github.com/withastro/astro/pull/17960) · merged into `main` · Sep 2026
 Improved two of Astro's built-in error messages. `RedirectWithNoLocation` had only a title and now explains what went wrong and how to fix it, and `RewriteWithBodyUsed` gained a hint showing the `Astro.request.clone()` pattern so the request can still be rewritten. The same text powers the error reference on docs.astro.build. Merged by Emanuele Stoppa.
